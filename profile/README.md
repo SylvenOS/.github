@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/289425715?s=200&v=4" width="110" alt="Sylven OS" />
 
-<h1>🌳 Sylven OS</h1>
+<h1>Sylven OS</h1>
 
 <p><i>"To Learn. To Build. To Educate."</i></p>
 
@@ -20,7 +20,7 @@ We don't just write code — we grow forests.
   </a>
   &nbsp;
   <a href="https://discord.gg/A3N5aM7aSF">
-    <img src="https://img.shields.io/discord/1234567890?style=for-the-badge&logo=discord&label=Join%20Discord&color=5865F2" />
+    <img src="https://img.shields.io/discord/1511094307287732224?style=for-the-badge&logo=discord&label=Join%20Discord&color=5865F2" />
   </a>
   &nbsp;
   <a href="https://x.com/sylvenos_">
