@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SylvenOS/.github/raw/main/assets/sylvenos-seal.png" alt="Sylven OS Seal" width="120" />
+<img src="https://avatars.githubusercontent.com/u/289425715?s=200&v=4" alt="Sylven OS Seal" width="120" />
 
 <h1>Sylven OS</h1>
 
