@@ -57,9 +57,6 @@ A place where programmers collaborate, create, and grow together.
 
 <br/>
 
-<h3>
-Every contributor plants a seed🌱; every project helps grow the forest.🌲
-</3>
 
 </div>
 
@@ -69,12 +66,12 @@ Every contributor plants a seed🌱; every project helps grow the forest.🌲
 <img src="https://img.shields.io/badge/Open%20Source-Community-2D6A4F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Learn-Build-Education?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Contributors-Welcome-40916C?style=for-the-badge"/>
+<br/>
+<h3>
+Every contributor plants a seed🌱; every project helps grow the forest.🌲
+<h/3>
 
-
-
-
-
-<br/><br/>
+<br/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2d6aff&height=180&section=footer&text=SylvenOS&fontSize=55&fontColor=ffffff&animation=fadeIn" />
