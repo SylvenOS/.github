@@ -22,14 +22,6 @@
 A place where programmers collaborate, create, and grow together.
 </b>
 
-<br/>
-<br/>
-
-<b>
-Every contributor plants a seed🌱; every project helps grow the forest.🌲
-</b>
-
-
 </p>
 
 <br/>
@@ -66,9 +58,8 @@ Every contributor plants a seed🌱; every project helps grow the forest.🌲
 <br/>
 
 <h3>
-🌳 Every contributor plants a seed.<br/>
-🌲 Every project grows the forest.
-</h3>
+Every contributor plants a seed🌱; every project helps grow the forest.🌲
+</3>
 
 </div>
 
