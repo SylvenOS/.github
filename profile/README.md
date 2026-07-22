@@ -15,7 +15,7 @@
 <p>
 
 <h3>
-🌱 A global open-source ecosystem for developers
+🌳 A global open-source ecosystem for developers
 </h3>
 
 <b>
@@ -27,35 +27,31 @@ A place where programmers collaborate, create, and grow together.
 <br/>
 
 <a href="https://github.com/SylvenOS">
-<img src="https://img.shields.io/github/followers/SylvenOS?style=for-the-badge&logo=github&label=Contributors&color=2d6a4f"/>
+  <img
+    src="https://img.shields.io/github/followers/SylvenOS?style=flat&logo=github&label=Contributors&color=2d6a4f"
+    alt="Contributors"
+    style="height:32;"
+  />
 </a>
-
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/company/sylvenos)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/HNrEcrSBs6)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/sylvenos_)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/sylvenos_)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/sylvenos)
-
-<!-- [![Threads](https://img.shields.io/badge/Threads-black.svg?logo=threads&logoColor=white&style=for-the-badge)](https://www.threads.com/@akshaykurve_) -->
-
-
+[![Threads](https://img.shields.io/badge/Threads-black.svg?logo=threads&logoColor=white&style=for-the-badge)](https://www.threads.com/@akshaykurve_)
+-->
 <br/> 
 
 
-<table>
-<tr>
-<td align="center">🌱<br/><b>Learn</b><br/>Grow skills together</td>
-<td align="center">🛠️<br/><b>Build</b><br/>Create real projects</td>
-<td align="center">📚<br/><b>Educate</b><br/>Share knowledge</td>
-</tr>
-</table>
-
+|      🌱 Learn       |        🛠️ Build      |   📚 Educate   |
+|----------------------|----------------------|-----------------|
+| Grow skills together | Create real projects | Share knowledge |
+| Explore, experiment, and improve every day. | Turn ideas into software that matters. | Share knowledge and grow together. |
 
 
 <!-- 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SylvenOS&theme=github-light&hide_border=true"/> -->
-
-<br/>
 
 
 </div>
@@ -67,163 +63,86 @@ A place where programmers collaborate, create, and grow together.
 <img src="https://img.shields.io/badge/Learn-Build-Education?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Contributors-Welcome-40916C?style=for-the-badge"/>
 <br/>
-<h3>
-Every contributor plants a seed🌱; every project helps grow the forest.🌲
-<h/3>
-
-<br/>
-
+<h3 align="center">
+  EVERY CONTRIBUTOR PLANTS A SEED 🌱 • EVERY PROJECT GROWS THE FOREST 🌲
+</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2d6aff&height=180&section=footer&text=SylvenOS&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
 
+## 🌱 About Sylven OS
 
-# 🌱 About Sylven OS
+Sylven OS is a global open-source community where developers learn, build, and grow together.
 
+We believe great technology is created through collaboration, continuous learning, and knowledge sharing.
 
-Sylven OS is an open-source organization built around one idea:
+Whether you work with `JavaScript`  `C++`  `Java`  `Python`  `Go`  `Rust`  `Swift` or any other technology - you belong here.
 
-> **Technology grows faster when people grow together.**
-
-
-We are creating a global developer ecosystem where people can:
-
- Learn new technologies · Build real-world software · Collaborate openly · Teach and mentor others
-
-
-We are not tied to a single stack.
-
-Whether you write:
-
-`Python` · `Rust` · `Go` · `JavaScript` · `C++` · `Java` · `Swift`
-
-you belong here.
-
-
-<br>
-<br>
-
-<center>
-
-# 🌳 The Sylven Philosophy
 
 
 <div align="center">
-
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-## 🌱 Learn
-
-Explore new ideas.
-Experiment without fear.
-Improve every day.
-
-</td>
-
-
-<td width="33%" align="center">
-
-## 🔨 Build
-
-Turn concepts into software.
-Ship projects.
-Create impact.
-
-</td>
-
-
-<td width="33%" align="center">
-
-## 📚 Educate
-
-Share knowledge.
-Help others grow.
-Build together.
-
-</td>
-
-
-</tr>
-
-</table>
-
-</div>
-
-
-<br>
-<br>
-
-# 🚀 What We Build
-
-
-<div align="center">
+## 🚀 What We Build
 
 
 | Area | Focus |
-|-|-|
-| 🧩 Developer Tools | Productivity and automation |
-| 🌐 Web Systems | Modern applications |
-| ⚙️ Backend Systems | APIs and scalable services |
-| 🤖 AI Projects | Experiments and research |
-| 📚 Learning Resources | Tutorials and guides |
-
+|------|-------|
+| 🧩 Developer Tools | Productivity & Automation |
+| 🌐 Web Platforms | Modern Applications |
+| ⚙️ Backend Services | Scalable APIs & Systems |
+| 🤖 AI & Machine Learning | Intelligent Solutions |
+| 📚 Developer Education | Learning & Documentation |
 
 </div>
 
 
----
-
-# 🛠️ Technology Forest
-
-
+## 🛠️ Technology Forest
 <div align="center">
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-black?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-000000?style=flat&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat&logo=tensorflow&logoColor=orange)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 </div>
 
-
-No framework restrictions.
-
-No language barriers. 
-
-Just builders.
+No framework restrictions. No language barriers. Just builders.
 
 
 ---
@@ -269,9 +188,88 @@ Create a discussion.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=2D6A4F&center=true&vCenter=true&width=700&lines=Connect+with+builders+worldwide;Learn+Together+%7C+Build+Together+%7C+Grow+Together" />
 
-<br/><br/>
 
 
+<table>
+ 
+<tr>
+<th width="33%" style="">
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="18" valign="middle" align="absmiddle">
+<strong>  Discord  </strong>
+<a href="https://discord.gg/Zpca2Z3KJU">
+<img src="https://img.shields.io/badge/JOIN-5865F2?style=flat" align="absmiddle">
+</a>
+</th>
+<th width="33%" ">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" align="absmiddle">
+<strong> LinkedIn</strong>
+<a href="https://www.linkedin.com/company/sylvenos">
+<img src="https://img.shields.io/badge/FOLLOW-0A66C2?style=flat" align="absmiddle">
+</a>
+</th>
+<th width="33%" ">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="18" valign="middle" align="absmiddle">
+<strong> GitHub </strong>
+<a href="https://github.com/SylvenOS">
+<img src="https://img.shields.io/badge/JOIN-181717?style=flat" align="absmiddle">
+</a>
+</th>
+</tr>
+
+<tr>
+<td width="33%" ">
+Community • Support • Networking
+</td>
+<td width="33%" ">
+News • Updates • Events
+</td>
+<td width="33%" ">
+Projects • Discussions • Contributions
+</td>
+</tr>
+
+
+<tr>
+<th width="33%" ">
+<img src="https://cdn.simpleicons.org/x/FFFFFF" width="18" valign="middle" align="absmiddle">
+<strong> X </strong>
+<a href="https://x.com/sylvenos_">
+<img src="https://img.shields.io/badge/FOLLOW-000000?style=flat">
+</a>
+</th>
+<th width="33%" ">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="18" valign="middle" align="absmiddle">
+<strong> Instagram </strong>
+<a href="https://www.instagram.com/sylvenos_">
+<img src="https://img.shields.io/badge/FOLLOW-E4405F?style=flat" align="absmiddle">
+</a>
+</th>
+<th width="33%" ">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="18" valign="middle" align="absmiddle">
+<strong> Facebook </strong>
+<a href="https://www.facebook.com/sylvenos">
+<img src="https://img.shields.io/badge/FOLLOW-1877F2?style=flat" align="absmiddle">
+</a>
+</a>
+</th>
+</tr>
+
+<tr>
+<td width="33%" ">
+Updates • Threads • News
+</td>
+<td width="33%" ">
+Stories • Moments • BTS
+</td>
+<td width="33%" ">
+Community • News • Updates
+</td>
+</tr>
+
+
+</table>
+
+<!--
 <table>
 
 <tr>
@@ -394,7 +392,7 @@ Updates
 </tr>
 
 </table>
-
+-->
 
 <br/>
 
